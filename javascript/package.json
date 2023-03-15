@@ -7,7 +7,7 @@
     "makeDist": "npx ncc build zipdu.js"
   },
   "dependencies": {
-    "adm-zip": "^0.4.16",
+    "adm-zip": "^0.5.10",
     "express": "^4.17.1",
     "multer": "^1.4.2",
     "npx": "^10.2.2",
